@@ -14,6 +14,6 @@ function deleteListItem(cssSelector){
 		clearInterval(intervalId);
 	}
 }, daleyM);
-
+alert("Hello");
 }
 }());
